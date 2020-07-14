@@ -1,4 +1,4 @@
 server.port: 8999
 production.name: sample-production
 yyyss.password: '{cipher}AQCM7WmcZ2Zjs2T4+EMb7EMcEMfZ/Q+RnOfyPVpqga0PMRjt29aR6fpreAg/JAbiiGQTUdRlofnZHkiuc+d3tocB0NO32wQ8XFtNg6WSg2H3C7rdVbVPa0QfMVHhdAYE2PAG6tWoRwM9OGo6rRkXNr5Sy2H6KXbJ7MfBN4hC8YVhg5OTamKW67f0bxmEA2rdHxBYDeg44nmmqWy7NxK6U8IpndJrWE7dY7MrGm2MKAxhfGZ4qmJnkZ259+9r6aPPPLJ5nL5qpc79upAXv7fZOIsqfNe36gv2r/YLK6ayoBXUDmidRFtVqUtlTIa0rnmnfSOOkbzRpzIrMacSxhN9bZi71d327+Ldx69TxUj/BA/jlMX/F6TeNbk+nUenLz7d1iA='
-sample.name: sample-config-name
+sample.name: simple is best
